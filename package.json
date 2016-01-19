@@ -7,7 +7,7 @@
   "name": "@th507/foo",
   "description": "A test scoped package with no `main`, `lib`, or `dependencies` specified. Package forked from foo.",
   "homepage": "https://github.com/th507/scoped-foo",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "repository": {
     "type": "git",
     "url": "git@github.com:th507/scoped-foo.git"
